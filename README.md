@@ -2,11 +2,11 @@
 
 一个隐蔽的小窗写作工具，基于 Windows PowerShell 和 .NET Windows Forms 构建。
 
-本项目参考了 [码文工具 v1.4](C:\Users\LEGION\Desktop\码文工具1.4) 的 PowerShell 脚本版本，将其编译打包为独立的 `.exe` 可执行文件，方便直接运行。
+本项目参考了 [码文工具 v1.4](https://github.com/AAA-Geeker/code-writer) 的 PowerShell 脚本版本，将其编译打包为独立的 `.exe` 可执行文件，方便直接运行。
 
 ## 来源
 
-- 原始参考版本：`C:\Users\LEGION\Desktop\码文工具1.4`（PowerShell 脚本 + VBS 启动器）
+- 原始参考版本：[码文工具 v1.4](https://github.com/AAA-Geeker/code-writer)（PowerShell 脚本 + VBS 启动器）
 - 核心功能：双层透明窗口写作工具，支持背景/字体独立透明度调节、托盘隐藏、快捷键操作等
 
 ## 文件说明

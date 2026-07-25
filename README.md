@@ -29,6 +29,10 @@
 - **零依赖**：基于 Windows 内置组件，无需额外安装
 - **草稿自动保存**：30 秒自动保存，防崩溃；正常退出自动清空不留痕
 
+## 下载
+
+👉 **[点击下载最新版本](https://github.com/AAA-Geeker/ghost-writer/releases/latest)**
+
 ## Contributor
 
-[@AAA-Geeker](https://github.com/AAA-Geeker)
+**AAA-Geeker** — [https://github.com/AAA-Geeker](https://github.com/AAA-Geeker)

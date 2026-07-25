@@ -1,4 +1,4 @@
-# CC Switch
+# Ghost Writer
 
 一个隐蔽的小窗写作工具，基于 Windows PowerShell 和 .NET Windows Forms 构建。
 
@@ -28,3 +28,7 @@
 - **快捷键**：`Ctrl+S` 导出 TXT，`Ctrl+滚轮` 缩放字号，`Ctrl+↑/↓` 调透明度
 - **零依赖**：基于 Windows 内置组件，无需额外安装
 - **草稿自动保存**：30 秒自动保存，防崩溃；正常退出自动清空不留痕
+
+## Contributor
+
+[@AAA-Geeker](https://github.com/AAA-Geeker)

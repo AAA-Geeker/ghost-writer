@@ -1,0 +1,8 @@
+# Claude local settings
+.claude/
+
+# Auto-save drafts
+draft_autosave.txt
+
+# Backup files
+备份_*.txt
